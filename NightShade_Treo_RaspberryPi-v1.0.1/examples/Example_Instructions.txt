@@ -1,0 +1,8 @@
+# NightShade Treo Examples
+
+* C++ Examples
+	Compile with command: sudo g++ -lNightShade_Treo -lwiringPi <source_file.cpp> -o <output_file>
+	A makefile is included to build all of the C++ examples as once.
+	
+* Python 3 Examples
+	Run an example with the command: python3 <example_file.py>
